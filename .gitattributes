@@ -1,2 +1,67 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+
+<title> zeyad website</title>
+
+  <head>
+  </head>
+
+
+<body style="background-color:F7B446">
+
+   <h2>hey everyone zeyad is here</h2>
+<p2><B><big>so this is my website i can do alot of things like that</big></B></p2>
+
+<P><big><b>H<sub>2</sub>0</big></b></P>
+<p> look at that can you type on the pc keyboard that' no you cant but i can program it</p>
+
+<p><big><B>10<sup>2</sup></big></B></p>
+
+   <p style="color:purple;">i can color my text</p>
+
+        <a>i can put links to weird videos</p> <h2> <a href='https://www.youtube.com/watch?v=IGQBtbKSVhY' target="_blank">funny</h2></a>
+<p> i can put pictures</p>
+                 <img width="100" height="100" src="https://i.insider.com/5484d9d1eab8ea3017b17e29?width=700&format=jpeg&auto=webp" alt="dog"/>
+
+
+<P>i can also put youtube videos like this video below</p>
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/pTjHMGNdEmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></br>
+<hr>
+<p> i can also make lists like that</p>
+<li>this is a list of things</li>
+<li>first show my website</li>
+<li>second show what can i do</li>
+<li>third make a public website</li>
+<hr>
+<p> also see that type any letters on the keyboard in the password place</p>
+
+<input type="text" value="Enter your name"/>
+<br><input type="password"/></br>
+
+<p>enter todays day</p>
+
+<input type="date"/>
+
+<p>they do nothing</p>
+
+<input type="range"/>
+
+<br><input type="file"/></br>
+
+ <input type="checkbox"/><p>nothing here </p>
+ <input type="checkbox"/><p>just check box to check </p>
+ <input type="checkbox"/><p>check </p>
+
+       <input type="submit"/>
+
+<p>i can also put websites in my website like classera below</p>
+
+       <iframe width="500px" height="500px" src="https://me.classera.com/student#networkfirst"</iframe>
+
+
+
+
+</body>
+</html>
